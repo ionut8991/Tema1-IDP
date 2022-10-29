@@ -21,7 +21,7 @@ namespace Tema1_IDP
             {
                 new Carte() {NumeCarte="Trei", Editura="Litera", Aparitie = 2022 , ISBN= 9786063395369 , pret = 69.90 },
                 new Carte() {NumeCarte="Arta de a citi oamenii", Editura="Litera", Aparitie = 2022  , ISBN= 9786063394911 , pret = 64.90 },
-                new Carte() {NumeCarte="Prima luna de razboi. Cronica evenimentelor", Editura="Humanitas", Aparitie = 2022  , ISBN= 9789735076542  , pret = 49.90 },
+                new Carte() {NumeCarte="Prima luna de razboi. Cronica evenimentelor", Editura="Humanitas", Aparitie = 2020  , ISBN= 9789735076542  , pret = 49.90 },
                 new Carte() {NumeCarte="Fizica povestita", Editura="Humanitas", Aparitie = 2022  , ISBN= 9789735076559 , pret = 119.00 },
                 new Carte() {NumeCarte="Armata nu se implica in conflict", Editura="Univers", Aparitie = 2020 , ISBN= 9789975319294 , pret = 25.00 },
                 new Carte() {NumeCarte="Evreii", Editura="Prut", Aparitie = 2020 , ISBN= 9789975545150 , pret = 40.00},
